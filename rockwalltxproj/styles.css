@@ -1,0 +1,106 @@
+
+.title {
+    font-style: bold;
+    font-size: 35px;
+    text-shadow: 1px 1px 4px black;
+}
+.titlesub {
+    font-size: 28px;
+    color: 
+    
+}
+body {
+    margin: 0;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 4px black;
+    background: #F8333C
+}
+
+img {
+    width: 100px;
+}
+.Hero {
+    padding-top: 40px;
+    margin-top: 0px;
+   background-image:url(https://blueribbonnews.com/wp-content/uploads/2020/09/4-Rockwall-Texas.jpg);
+   background-size: cover;
+   width: 100%;
+   height: 300px;
+   border-bottom: 5px solid #DBD5B5;
+   border-bottom-left-radius: 7px;
+   border-bottom-right-radius: 7px;
+ 
+}
+.mainhed {
+    font-size: 20px
+}
+.inimg {
+    align-items: center;
+    margin-left: 0px;
+    border-radius: 80%;
+    height: 110px;
+    width: 110px;
+    margin-top: 30px;
+    border: 3px solid #3C3C3B;
+}
+.actcon {
+    display:flex;
+    justify-content: space-around;
+    
+}
+
+.inimg:hover {
+    border: 4px solid #3C3C3B;
+    width: 120px; 
+    height: 120px;
+    font-weight: bold;
+    text-shadow: 1px 0px 3px black;
+}
+.subhdimg {
+    text-align: center;
+    width: 130px;
+    text-shadow: -1px 0px px black;
+}
+.subhd {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#harborpg {
+    margin-top: 0px;
+    font-family: Osawald;
+    font-size: 15px;
+    font-style: italic;
+    
+}
+
+.buscard {
+    margin-top: 50px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background: #484538;
+    width: 360px;
+    height: 160px;
+    border-radius: 10px;
+    font-size: 10px
+}
+.profilepic {
+    align-items: flex-start;
+    padding: 5px;
+    height: 95%;
+    width: 40%;
+    margin-left: 0;
+    border-radius: 15%;
+}
+.bold {
+    font-style: bold;
+    font-size: 11px;
+}
+.woo {
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
